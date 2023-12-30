@@ -1,0 +1,14 @@
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net8.0\helloWorldPlatzi.exe
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net8.0\helloWorldPlatzi.deps.json
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net8.0\helloWorldPlatzi.runtimeconfig.json
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net8.0\helloWorldPlatzi.dll
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net8.0\helloWorldPlatzi.pdb
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.AssemblyInfoInputs.cache
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.AssemblyInfo.cs
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.dll
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\refint\helloWorldPlatzi.dll
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.pdb
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\helloWorldPlatzi.genruntimeconfig.cache
+C:\Users\LuisG\source\repos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net8.0\ref\helloWorldPlatzi.dll

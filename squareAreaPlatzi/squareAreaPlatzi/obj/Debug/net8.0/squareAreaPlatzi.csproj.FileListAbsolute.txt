@@ -1,0 +1,14 @@
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\bin\Debug\net8.0\squareAreaPlatzi.exe
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\bin\Debug\net8.0\squareAreaPlatzi.deps.json
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\bin\Debug\net8.0\squareAreaPlatzi.runtimeconfig.json
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\bin\Debug\net8.0\squareAreaPlatzi.dll
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\bin\Debug\net8.0\squareAreaPlatzi.pdb
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.AssemblyInfoInputs.cache
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.AssemblyInfo.cs
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.dll
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\refint\squareAreaPlatzi.dll
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.pdb
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\squareAreaPlatzi.genruntimeconfig.cache
+C:\Users\LuisG\source\repos\squareAreaPlatzi\squareAreaPlatzi\obj\Debug\net8.0\ref\squareAreaPlatzi.dll
